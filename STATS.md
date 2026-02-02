@@ -8,7 +8,7 @@
 | LACNIC | Latin America & Caribbean | 30 | 20 066 | 13 271 | 33 337 |
 | RIPE | Europe, Middle East & Central Asia | 124 | 99 847 | 26 514 | 126 361 |
 | | | | | | |
-| **Total** | | **348** | **255 372** | **69 051** | **324 423** |
+| **Total** | | **237** | **255 372** | **69 051** | **324 423** |
 
 ## Prefixes by Country
 
