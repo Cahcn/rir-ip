@@ -2,13 +2,13 @@
 
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
-| AFRINIC | Africa | 56 | 5 421 | 1 585 | 7 006 |
+| AFRINIC | Africa | 56 | 5 424 | 1 586 | 7 010 |
 | APNIC | Asia Pacific | 80 | 53 993 | 16 718 | 70 711 |
-| ARIN | North America | 59 | 76 126 | 11 023 | 87 149 |
-| LACNIC | Latin America & Caribbean | 30 | 20 067 | 13 291 | 33 358 |
+| ARIN | North America | 59 | 76 128 | 11 024 | 87 152 |
+| LACNIC | Latin America & Caribbean | 30 | 20 067 | 13 292 | 33 359 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 100 000 | 26 553 | 126 553 |
 | | | | | | |
-| **Total** | | **237** | **255 607** | **69 170** | **324 777** |
+| **Total** | | **237** | **255 612** | **69 173** | **324 785** |
 
 ## Prefixes by Country
 
@@ -101,7 +101,7 @@
 | Grenada (GD) | 15 | 10 | 25 |
 | Guadeloupe (GP) | 16 | 5 | 21 |
 | Guam (GU) | 27 | 11 | 38 |
-| Guatemala (GT) | 136 | 79 | 215 |
+| Guatemala (GT) | 136 | 80 | 216 |
 | Guernsey (GG) | 22 | 7 | 29 |
 | Guinea (GN) | 23 | 11 | 34 |
 | Guinea-Bissau (GW) | 3 | 2 | 5 |
@@ -124,7 +124,7 @@
 | Jersey (JE) | 42 | 10 | 52 |
 | Jordan (JO) | 127 | 40 | 167 |
 | Kazakhstan (KZ) | 574 | 90 | 664 |
-| Kenya (KE) | 337 | 148 | 485 |
+| Kenya (KE) | 338 | 149 | 487 |
 | Kiribati (KI) | 5 | 3 | 8 |
 | Kuwait (KW) | 132 | 35 | 167 |
 | Kyrgyzstan (KG) | 106 | 28 | 134 |
@@ -195,7 +195,7 @@
 | San Marino (SM) | 24 | 14 | 38 |
 | São Tomé & Príncipe (ST) | 3 | 1 | 4 |
 | Saudi Arabia (SA) | 576 | 121 | 697 |
-| Senegal (SN) | 33 | 12 | 45 |
+| Senegal (SN) | 34 | 12 | 46 |
 | Serbia (RS) | 383 | 89 | 472 |
 | Seychelles (SC) | 797 | 729 | 1 526 |
 | Sierra Leone (SL) | 30 | 9 | 39 |
@@ -205,7 +205,7 @@
 | Slovenia (SI) | 529 | 146 | 675 |
 | Solomon Islands (SB) | 12 | 8 | 20 |
 | Somalia (SO) | 30 | 14 | 44 |
-| South Africa (ZA) | 1 553 | 524 | 2 077 |
+| South Africa (ZA) | 1 554 | 524 | 2 078 |
 | South Korea (KR) | 992 | 141 | 1 133 |
 | South Sudan (SS) | 29 | 8 | 37 |
 | Spain (ES) | 3 392 | 882 | 4 274 |
@@ -240,7 +240,7 @@
 | Ukraine (UA) | 2 657 | 614 | 3 271 |
 | United Arab Emirates (AE) | 1 107 | 585 | 1 692 |
 | United Kingdom (GB) | 8 124 | 2 017 | 10 141 |
-| United States (US) | 29 174 | 10 288 | 39 462 |
+| United States (US) | 29 174 | 10 289 | 39 463 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 156 | 48 | 204 |
 | Vanuatu (VU) | 20 | 10 | 30 |
@@ -252,4 +252,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **175 408** | **67 956** | **243 364** |
+| **Total** | **175 411** | **67 959** | **243 370** |
