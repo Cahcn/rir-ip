@@ -2,13 +2,13 @@
 
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
-| AFRINIC | Africa | 56 | 5 431 | 1 587 | 7 018 |
+| AFRINIC | Africa | 56 | 5 433 | 1 587 | 7 020 |
 | APNIC | Asia Pacific | 80 | 54 002 | 16 724 | 70 726 |
-| ARIN | North America | 59 | 76 179 | 11 043 | 87 222 |
-| LACNIC | Latin America & Caribbean | 30 | 20 067 | 13 298 | 33 365 |
+| ARIN | North America | 59 | 76 208 | 11 048 | 87 256 |
+| LACNIC | Latin America & Caribbean | 30 | 20 067 | 13 302 | 33 369 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 100 196 | 26 580 | 126 776 |
 | | | | | | |
-| **Total** | | **237** | **255 875** | **69 232** | **325 107** |
+| **Total** | | **237** | **255 906** | **69 241** | **325 147** |
 
 ## Prefixes by Country
 
@@ -42,7 +42,7 @@
 | Bolivia (BO) | 102 | 54 | 156 |
 | Bosnia & Herzegovina (BA) | 157 | 37 | 194 |
 | Botswana (BW) | 53 | 18 | 71 |
-| Brazil (BR) | 4 895 | 8 905 | 13 800 |
+| Brazil (BR) | 4 895 | 8 907 | 13 802 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 205 | 47 | 252 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -57,7 +57,7 @@
 | Cayman Islands (KY) | 32 | 5 | 37 |
 | Central African Republic (CF) | 5 | 0 | 5 |
 | Chad (TD) | 20 | 5 | 25 |
-| Chile (CL) | 632 | 322 | 954 |
+| Chile (CL) | 632 | 323 | 955 |
 | China (CN) | 5 499 | 2 026 | 7 525 |
 | Colombia (CO) | 514 | 694 | 1 208 |
 | Comoros (KM) | 5 | 2 | 7 |
@@ -133,7 +133,7 @@
 | Lebanon (LB) | 226 | 106 | 332 |
 | Lesotho (LS) | 20 | 8 | 28 |
 | Liberia (LR) | 20 | 7 | 27 |
-| Libya (LY) | 68 | 17 | 85 |
+| Libya (LY) | 69 | 17 | 86 |
 | Liechtenstein (LI) | 62 | 29 | 91 |
 | Lithuania (LT) | 881 | 374 | 1 255 |
 | Luxembourg (LU) | 537 | 103 | 640 |
@@ -167,7 +167,7 @@
 | New Zealand (NZ) | 1 278 | 425 | 1 703 |
 | Nicaragua (NI) | 49 | 24 | 73 |
 | Niger (NE) | 12 | 4 | 16 |
-| Nigeria (NG) | 381 | 126 | 507 |
+| Nigeria (NG) | 382 | 126 | 508 |
 | Niue (NU) | 2 | 2 | 4 |
 | Norfolk Island (NF) | 2 | 1 | 3 |
 | Northern Mariana Islands (MP) | 5 | 1 | 6 |
@@ -212,7 +212,7 @@
 | Sri Lanka (LK) | 69 | 25 | 94 |
 | St. Barthélemy (BL) | 3 | 3 | 6 |
 | St. Kitts & Nevis (KN) | 16 | 3 | 19 |
-| St. Lucia (LC) | 19 | 3 | 22 |
+| St. Lucia (LC) | 21 | 4 | 25 |
 | St. Martin (MF) | 7 | 4 | 11 |
 | St. Pierre & Miquelon (PM) | 2 | 1 | 3 |
 | St. Vincent & Grenadines (VC) | 12 | 3 | 15 |
@@ -240,16 +240,16 @@
 | Ukraine (UA) | 2 658 | 614 | 3 272 |
 | United Arab Emirates (AE) | 1 113 | 585 | 1 698 |
 | United Kingdom (GB) | 8 160 | 2 020 | 10 180 |
-| United States (US) | 29 201 | 10 306 | 39 507 |
+| United States (US) | 29 209 | 10 310 | 39 519 |
 | Uruguay (UY) | 58 | 40 | 98 |
 | Uzbekistan (UZ) | 156 | 48 | 204 |
 | Vanuatu (VU) | 20 | 10 | 30 |
 | Vatican City (VA) | 4 | 3 | 7 |
-| Venezuela (VE) | 216 | 213 | 429 |
+| Venezuela (VE) | 216 | 214 | 430 |
 | Vietnam (VN) | 1 248 | 933 | 2 181 |
 | Wallis & Futuna (WF) | 3 | 1 | 4 |
 | Yemen (YE) | 29 | 6 | 35 |
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **175 628** | **68 014** | **243 642** |
+| **Total** | **175 640** | **68 023** | **243 663** |
