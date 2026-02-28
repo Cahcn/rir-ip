@@ -1,6 +1,4 @@
-# country-ip-blocks (formerly rir-ip)
-
-> **📢 Heads up:** This repo has a new name and the data format has changed. Check out [MIGRATION.md](MIGRATION.md) for what you need to update.
+# country-ip-blocks
 
 ## 🔍 Try it online
 
@@ -94,7 +92,7 @@ Instead of blocking an entire geographic region, it might be more effective to b
 ## Recent changes
 
 - **2026-01-17**: Added bulk download archive in [releases](https://github.com/ipverse/country-ip-blocks/releases/latest)
-- **2026-01-03**: Repo renamed from `rir-ip` to `country-ip-blocks` and JSON format updated to use camelCase. Check [MIGRATION.md](MIGRATION.md) if you're already using this data.
+- **2026-01-03**: Repo renamed from `rir-ip` to `country-ip-blocks` and JSON format updated to use camelCase.
 - 2025-05-04: Removed country code EU (non-standard code that RIPE only kept for historical reasons)
 
 ## Questions or issues?
