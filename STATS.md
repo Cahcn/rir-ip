@@ -2,13 +2,13 @@
 
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
-| AFRINIC | Africa | 56 | 5 438 | 1 588 | 7 026 |
+| AFRINIC | Africa | 56 | 5 440 | 1 589 | 7 029 |
 | APNIC | Asia Pacific | 80 | 54 020 | 16 739 | 70 759 |
 | ARIN | North America | 59 | 76 222 | 11 067 | 87 289 |
 | LACNIC | Latin America & Caribbean | 30 | 20 072 | 13 317 | 33 389 |
 | RIPE | Europe, Middle East & Central Asia | 125 | 100 270 | 26 592 | 126 862 |
 | | | | | | |
-| **Total** | | **237** | **256 022** | **69 303** | **325 325** |
+| **Total** | | **237** | **256 024** | **69 304** | **325 328** |
 
 ## Prefixes by Country
 
@@ -167,7 +167,7 @@
 | New Zealand (NZ) | 1 278 | 424 | 1 702 |
 | Nicaragua (NI) | 49 | 24 | 73 |
 | Niger (NE) | 12 | 4 | 16 |
-| Nigeria (NG) | 382 | 126 | 508 |
+| Nigeria (NG) | 383 | 127 | 510 |
 | Niue (NU) | 2 | 2 | 4 |
 | Norfolk Island (NF) | 2 | 1 | 3 |
 | Northern Mariana Islands (MP) | 5 | 1 | 6 |
@@ -205,7 +205,7 @@
 | Slovenia (SI) | 530 | 146 | 676 |
 | Solomon Islands (SB) | 12 | 8 | 20 |
 | Somalia (SO) | 30 | 14 | 44 |
-| South Africa (ZA) | 1 557 | 525 | 2 082 |
+| South Africa (ZA) | 1 558 | 525 | 2 083 |
 | South Korea (KR) | 993 | 141 | 1 134 |
 | South Sudan (SS) | 29 | 8 | 37 |
 | Spain (ES) | 3 397 | 882 | 4 279 |
@@ -252,4 +252,4 @@
 | Zambia (ZM) | 39 | 13 | 52 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **175 736** | **68 083** | **243 819** |
+| **Total** | **175 738** | **68 084** | **243 822** |
